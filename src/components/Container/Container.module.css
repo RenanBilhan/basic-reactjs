@@ -1,0 +1,9 @@
+.container{
+    width: 100%;
+    height: 100%;
+    background-color: #191919;
+    color: white;
+    padding-block: 4rem;
+    text-align: center;
+    
+}
